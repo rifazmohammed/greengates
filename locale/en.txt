@@ -1,0 +1,53 @@
+#: locale=en
+
+## Tour
+
+### Description
+
+### Title
+tour.name = Green Gates Hotels
+
+## Skin
+
+### Tooltip
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4.toolTip = Fullscreen
+IconButton_138AC8EB_1C81_A718_41B9_C0E861AF42F4_mobile.toolTip = Fullscreen
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801.toolTip = Visit website
+IconButton_AEB98942_BE0B_5B99_41E4_55AC1F78B801_mobile.toolTip = Visit website
+
+## Media
+
+### Title
+album_5BA86212_5025_BC55_419C_38D144872084.label = Green Gates
+album_5BA86212_5025_BC55_419C_38D144872084_0.label = IMG-20201123-WA0012
+album_5BA86212_5025_BC55_419C_38D144872084_2.label = IMG-20201220-WA0022
+album_5BA86212_5025_BC55_419C_38D144872084_3.label = IMG-20201220-WA0023
+album_5BA86212_5025_BC55_419C_38D144872084_4.label = IMG-20201220-WA0024
+album_5BA86212_5025_BC55_419C_38D144872084_6.label = IMG-20201225-WA0067
+album_5BA86212_5025_BC55_419C_38D144872084_8.label = IMG-20210311-WA0020
+panorama_C97CA5CB_C002_AB4F_41D0_803A7DEFD4E2.label = Washroom-Luxury Room
+panorama_C97CB276_C002_A959_41D4_5E8B98FCA2DE.label = Meeting Room
+panorama_C97CDA61_C002_D97B_41B3_1FACE1E183CD.label = Guestroom - Cottage
+panorama_C97CDCF5_C002_D95B_41B2_65E7D9B8F34E.label = Cottages
+panorama_C97CFFCE_C002_B749_41E3_53C683A00AB9.label = Games Parlour
+panorama_C97D0279_C003_A94B_41D0_1DBAE15C8156.label = Reception
+panorama_C97D051D_C003_68CB_41E5_4856B881ECD3.label = Restaurant
+panorama_C97D06A5_C003_A9FB_41E3_C31416348EF7.label = Guest Cottages
+panorama_C97D0C8B_C003_D9CF_41D4_D3D1E7CC0A99.label = Fitness Centre
+panorama_C97D49B0_C003_BBD9_41DC_05E5097B6FC2.label = Banquet Hall
+panorama_C97D76ED_C003_694B_41D2_6DAB70FF5B78.label = Restaurant
+panorama_C97DCFB8_C003_F7C9_4198_19867D3880F0.label = Western Spa
+panorama_C97DCFF1_C003_B75B_41E0_B329C99DDFD9.label = 04GreenGates
+panorama_C97DD039_C003_E8CB_41D4_73C0B67A2AD4.label = Swimming Pool
+panorama_C9832332_C001_68D9_41E1_820169C86F2D.label = Luxury Room
+panorama_C9832D4C_C002_FB49_41E2_BBA0C756F686.label = Washroom-Cottage
+panorama_C9837018_C001_68C9_41DD_FDBE56F1FE9C.label = Balcony - Luxury Room
+panorama_C98377DC_C002_B749_415D_493E78C3404E.label = Cottage - Balcony
+panorama_C983833F_C003_68C7_41B0_EC8724C25302.label = Porch
+panorama_CA6B825E_C003_6949_41D4_9DBFD2A0FF58.label = Hotel Facade
+
+## Action
+
+### URL
+LinkBehaviour_AB2615D2_BE75_6AB9_41D6_4B86ED01FE33.source = http://www.greengateshotel.com
+LinkBehaviour_AE3BF7BD_BE15_56EB_41E6_DDD23BB66254.source = http://www.greengateshotel.com
